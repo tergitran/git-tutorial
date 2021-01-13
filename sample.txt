@@ -1,3 +1,5 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 
 Edit in branch 2: Hello
+
+Edit in branch 2 in github: 
